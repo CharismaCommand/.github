@@ -3,7 +3,7 @@
 </p>
 
 <p align="center" style="color: #e63946; font-weight: 900; font-size: 2em; letter-spacing: 2px;">
-  CharismaCommand
+  CharismaCommand Club
 </p>
 
 <p align="center" style="font-style: italic; font-size: 1.2em; color: #f1faee;">
