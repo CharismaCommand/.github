@@ -7,7 +7,7 @@
 </p>
 
 <p align="center" style="font-style: italic; font-size: 1.2em; color: #f1faee;">
-  <em>Dominate every room. Command every conversation.</em>
+  <em>Dominate every room. Command every conversation. EQ Building.</em>
 </p>
 
 <p align="center">
